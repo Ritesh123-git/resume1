@@ -706,6 +706,7 @@ a:hover {
 
 .service-box {
   background-color: #fff;
+  height: 400px;
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
@@ -745,6 +746,7 @@ a:hover {
 
 .counter-box {
   color: #fff;
+  height: 400px;
   text-align: center;
 }
 
@@ -770,6 +772,7 @@ a:hover {
 
 .work-box {
   margin-bottom: 3rem;
+  height: 270px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
